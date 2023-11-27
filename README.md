@@ -1,2 +1,2 @@
-# Other
-Other
+# Other Projects
+
