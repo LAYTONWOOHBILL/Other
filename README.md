@@ -1,4 +1,4 @@
-# My GitHub Projects
+# My GitHub Other Randoms Projects
 
 - This repository houses three different projects. 
 - For each project, check the respective README or project folder for any installation instructions.
